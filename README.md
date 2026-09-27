@@ -1,9 +1,25 @@
-# Analyse Orbitale & Imagerie Satellite
+# Satellite Orbit & Earth Observation
 
-*Personal project - work in progress.*  
+*Personal project - work in progress*
 
-This project aims to build a spatial data pipeline combining orbital trajectory analysis (TLE, SGP4, and machine learning) with satellite imagery processing (Sentinel-2, RGB, NDVI, and QGIS).
+I am a Master's student in Applied Mathematics and Data Science.
+I created this project to learn more about the space sector and to practice data science with real satellite data.
+The main goal is to build a small Python project around satellite data, from orbital data to Earth observation images.
 
-The project is also a way for me to learn more about orbital mechanics, satellite data processing, and Earth observation workflows through practical experimentation.
+## What I want to explore
 
-As a student in applied mathematics and data engineering, I use this project to explore the space domain and develop my skills through hands-on projects.
+- TLE data and satellite orbits
+- SGP4 for orbit propagation
+- Python data processing
+- QGIS and geospatial data
+- Sentinel-2 satellite images
+- RGB images and NDVI
+- Machine learning
+
+## Technologies
+
+Python, Git, GitHub, SGP4, QGIS, Sentinel-2, Scikit-learn
+
+## About the project
+
+This is a personal learning project. I will improve it step by step and add new parts as I learn more about satellite data and Earth observation.
